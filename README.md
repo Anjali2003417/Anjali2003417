@@ -2,7 +2,7 @@
  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?center=true&width=100&height=10">
 </p>
 
-<h1 align="center">Hi 👋, I'm Amanda Okandapola</h1>
+<h1 align="center">Hi 👋, I'm Anjali Dasunika</h1>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
